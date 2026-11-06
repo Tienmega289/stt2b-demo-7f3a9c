@@ -1,4 +1,3 @@
-# STT2B Mechanical Dashboard – bản xem online (demo)
+# STT2B – bản chỉ xem (đã mã hóa)
 
-Trang tĩnh, chỉ để xem. Dữ liệu lấy từ MEL cut-off 04-Nov-26 và Layout R11.
-Mở `index.html` qua GitHub Pages. Muốn cập nhật thì thay thư mục `dashboard_data` bằng bản mới rồi commit.
+Cập nhật lúc 2026-11-06 14:41. Nội dung được mã hóa – cần mật khẩu để xem.
