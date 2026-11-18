@@ -1,3 +1,3 @@
 # STTP2B CGF Topside – bản chỉ xem (đã mã hóa)
 
-Cập nhật lúc 2026-11-16 11:30. Nội dung được mã hóa – cần mật khẩu để xem.
+Cập nhật lúc 2026-11-18 08:54. Nội dung được mã hóa – cần mật khẩu để xem.
